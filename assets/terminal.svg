@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="234" viewBox="0 0 1200 234" role="img" aria-label="Animated terminal showing a welcome message">
+<title>Terminal: welcome to dasturchi-uz</title>
+<defs>
+<linearGradient id="b" x2="1" y2="1"><stop stop-color="#0d182a"/><stop offset="1" stop-color="#121b2e"/></linearGradient>
+<clipPath id="reveal1"><rect x="98" y="110" height="24" width="525"><animate attributeName="width" values="0;0;525;525;525" keyTimes="0;.08;.27;.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="reveal2"><rect x="98" y="143" height="24" width="390"><animate attributeName="width" values="0;0;0;390;390;390" keyTimes="0;.30;.37;.58;.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<style><![CDATA[.mono{font-family:'SFMono-Regular',Consolas,monospace}.blink{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}@media (prefers-reduced-motion: reduce){.blink{animation:none}}]]></style>
+</defs>
+<rect x="1" y="1" width="1198" height="232" rx="19" fill="url(#b)" stroke="#2e445f" stroke-width="2"/>
+<path d="M1 55H1199" stroke="#2e445f"/>
+<circle cx="29" cy="28" r="6" fill="#ff6b77"/><circle cx="53" cy="28" r="6" fill="#ffd16f"/><circle cx="77" cy="28" r="6" fill="#42e0b3"/>
+<text x="600" y="34" text-anchor="middle" font-size="17" class="mono" fill="#9fb0c5">dasturchi-uz — terminal</text>
+<text x="32" y="90" font-size="18" class="mono" fill="#42e0b3">➜</text><text x="65" y="90" font-size="18" class="mono" fill="#f1f7ff">~</text><text x="99" y="90" font-size="18" class="mono" fill="#9fb0c5">whoami</text>
+<g clip-path="url(#reveal1)"><text x="98" y="129" font-size="20" class="mono" fill="#55d8ff">dasturchi-uz / learning by creating</text></g>
+<g clip-path="url(#reveal2)"><text x="98" y="162" font-size="19" class="mono" fill="#9fd9c8">$ the next idea starts here...</text></g>
+<text x="32" y="202" font-size="18" class="mono" fill="#42e0b3">➜</text><text x="65" y="202" font-size="18" class="mono" fill="#f1f7ff">~</text>
+<rect class="blink" x="96" y="185" width="11" height="21" rx="1" fill="#55d8ff"/>
+<text x="1156" y="201" font-size="14" text-anchor="end" class="mono" fill="#6888a5">READY</text>
+</svg>
